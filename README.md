@@ -4,22 +4,30 @@
 A full-stack real-time employee tracking and performance monitoring web application built by Urswin Faro, Armien Beggs and Abdul Felton for our Life Choices assignment. ModernTech HR Tracker empowers HR managers with tools to monitor employee performance, maintain accurate records, and manage tech portfolios efficiently.
 
 ## Table of Contents
-- Live Demo
-- Technologies Used
-- Setup Instructions
-- Key Features
-- Usage Instructions
-- Potential Improvements
-- Credits
-- Author
+- [Live Demo](#live-demo)
+- [Technologies Used](#technologies-used)
+- [Setup Instructions](#setup-instructions)
+- [Key Features](#key-features)
+- [Usage Instructions](#usage-instructions)
+- [Potential Improvements](#potential-improvements)
+- [Credits](#credits)
+- [Author](#authors)
 
 ## Live Demo
-Access the live demo here: https://github.com/Urswin-Faro/Project_02_Node.git
+Access the live demo here: https://github.com/Urswin-Faro/
 
 ## Technologies Used
-- Frontend: HTML, CSS, JavaScript, Vue.js
-- Backend: Node.js, MySQL, Bcrypt
-- Other Tools: ChatGPT, GitHub, Thunderclient
+Frontend:
+- Vue.js
+- HTML, CSS, JavaScript
+
+Backend;
+- Node.js
+- MySQL
+- Bcrypt
+- Other Tools
+- Thunderclient
+- npm
 
 ## Setup Instructions
 Follow these steps to run the ModernTech HR Tracker on your local machine:
@@ -32,14 +40,17 @@ git clone https://github.com/Urswin-Faro/Project_02_Node.git
 
 3. Install Dependencies
 Backend:
+```
 cd Project_02_Node
 npm install
 node --watch index.js
-
+```
 ## Frontend:
+```
 cd frontendproject
 npm install
 npm run serve
+```
 
 4. Environment Variables
 - Add .env files to the root directories of both the frontend and backend.
