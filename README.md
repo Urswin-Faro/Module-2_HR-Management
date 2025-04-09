@@ -1,5 +1,5 @@
 # ModernTech HR Tracker
-[home page](https://github.com/Urswin-Faro/Module-2_HR-Management/blob/a04a4d71ddc263446b8d153e049fec10f2d74b86/Screenshot%202025-04-09%20122139.png)
+![home Page](https://github.com/Urswin-Faro/Module-2_HR-Management/blob/a04a4d71ddc263446b8d153e049fec10f2d74b86/Screenshot%202025-04-09%20122139.png)
 
 A full-stack real-time employee tracking and performance monitoring web application built by Urswin Faro, Armien Beggs and Abdul Felton for our Life Choices assignment. ModernTech HR Tracker empowers HR managers with tools to monitor employee performance, maintain accurate records, and manage tech portfolios efficiently.
 
