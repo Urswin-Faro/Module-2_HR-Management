@@ -36,7 +36,7 @@ Follow these steps to run the ModernTech HR Tracker on your local machine:
 - Node.js and NPM installed
 - MySQL running with a database named moderntech_db
 2. Clone the Repository
-git clone https://github.com/Urswin-Faro/Project_02_Node.git
+git clone https://github.com/Urswin-Faro/
 
 3. Install Dependencies
 Backend:
